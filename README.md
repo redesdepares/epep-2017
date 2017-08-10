@@ -3,6 +3,8 @@
 
 Este repositorio es usado para almacenar todo el material gráfico producido para el evento.
 
+Info sobre el evento en: http://evo.re/epep7
+
 
 ## Organizadores
 
